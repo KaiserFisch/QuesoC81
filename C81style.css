@@ -1,0 +1,18 @@
+
+h1
+{
+	color: rgb(255, 255, 255); 
+	font-size: 40px;
+}
+.body_backgorund { 
+	background-image: url("https://historiadelavida.editorialaces.com/wp-content/uploads/2020/05/Por-que-el-espacio-es-oscuro-PORTADA.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+
+#myCanvas{
+border-width: 3px;
+background-color: rgb(255, 255, 255);
+border-style: ridge;
+}
